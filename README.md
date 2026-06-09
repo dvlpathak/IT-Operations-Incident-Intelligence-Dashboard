@@ -173,6 +173,6 @@ python -m streamlit run python/app.py
 ---
 
 ## Author
-- **Name:** Your Name
-- **LinkedIn:** your-linkedin-link
-- **Email:** your-email
+- **Name:** Deval Pathak
+- **LinkedIn:** linkedin.com/in/devalpathak-298772225
+- **Email:** devalpathak30@gmail.com
