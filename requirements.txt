@@ -1,0 +1,9 @@
+pandas
+faker
+psycopg2-binary
+matplotlib
+seaborn
+openpyxl
+streamlit
+plotly
+jupyter
